@@ -1,0 +1,23 @@
+{
+	"name": "brunoais/autoReloadOnLogin",
+	"type": "phpbb-extension",
+	"description": "If you login on one tab/window on the browser, it reloads all other tabs that belong to the same bulletin board",
+	"homepage": "https://github.com/brunoais/phpbb-auto",
+	"version": "1.0.0",
+	"time": "2014-05-25",
+	"license": "GPL-2.0",
+	"authors": [{
+			"name": "Bruno Almeida",
+			"username": "Brunoais",
+			"contact": "PM in https://www.phpbb.com/community or https://area51.phpbb.com/phpBB/",
+			"homepage": "https://github.com/brunoais/",
+			"role": "Lead Developer"
+		}],
+	"require": {
+		"php": ">=5.3.3",
+		"phpbb/phpbb": "3.1.*@dev"
+	},
+	"extra": {
+		"display-name": "Auto reload other pages on login"
+	}
+}
