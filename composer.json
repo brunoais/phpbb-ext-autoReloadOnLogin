@@ -2,7 +2,7 @@
 	"name": "brunoais/autoReloadOnLogin",
 	"type": "phpbb-extension",
 	"description": "If you login on one tab/window on the browser, it reloads all other tabs that belong to the same bulletin board",
-	"homepage": "https://github.com/brunoais/phpbb-auto",
+	"homepage": "https://github.com/brunoais/phpbb-ext-autoReloadOnLogin",
 	"version": "1.0.0",
 	"time": "2014-05-25",
 	"license": "GPL-2.0",
